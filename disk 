@@ -1,0 +1,6 @@
+/dev/sdb:
+SG_IO: bad/missing sense data, sb[]:  70 00 05 00 00 00 00 14 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ multcount     =  0 (off)
+ readonly      =  1 (on)
+ readahead     = 256 (on)
+ geometry      = 14664/64/32, sectors = 30031872, start = 0
